@@ -1,0 +1,9 @@
+V1.0
+
+- Preeroot
+- CWM, és SUperuser
+- Xperia Z5 Hátterek
+- CPU stat és húzó és fasza clockcpu!
+- Xperia Z5 Téma (fekete/fehér)
+- Beáálítások magyarítva, és új ikonok!
+- Deodexed -> resigned -> zipaligned, installed busybox, supersu, dual recovery (vol up for twrp, vol down for cwm), 5way reboot menu 
